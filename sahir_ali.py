@@ -16,7 +16,7 @@ def load_image(url):
     img = Image.open(BytesIO(response.content))
     return img
 
-profile_pic = load_image("https://drive.google.com/file/d/1FVLn2RbagKS7u7x_Zw42k5n8eGq9s08P/view?usp=sharing")
+profile_pic = load_image("https://drive.google.com/uc?export=download&id=1FVLn2RbagKS7u7x_Zw42k5n8eGq9s08P")
 
 # Custom CSS for dark theme
 st.markdown(
