@@ -5,7 +5,7 @@ from io import BytesIO
 
 # Set page configuration
 st.set_page_config(
-    page_title="Sahir Ali - Portfolio",
+    page_title="Sahir Ali",
     page_icon="👨‍💻",
     layout="wide"
 )
@@ -16,7 +16,7 @@ def load_image(url):
     img = Image.open(BytesIO(response.content))
     return img
 
-profile_pic = load_image("https://scontent.fkhi2-2.fna.fbcdn.net/v/t39.30808-6/475971111_1121100869516917_1442591456613741145_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGiw7W_Ews_5IclzdAdtEt6mNLw-iT2CDGY0vD6JPYIMR60L_nG6svlj9eotNXfl9cdXORFev6NvNeF1JyaYBIV&_nc_ohc=85jwrgOXtoIQ7kNvgFCiuMm&_nc_oc=Adm61YQS4gw2G9wug02kv6nIjCWRuF14FyGE2ocYuLs61krxVAY8TF8phSFu2V9TAqA&_nc_zt=23&_nc_ht=scontent.fkhi2-2.fna&_nc_gid=25T1VysC8cov0ctQA4CrUg&oh=00_AYFbx47FEO7wC6CyuC8_7Tp9z3ev5xBvCEC3moVtZEL9dg&oe=67E3A0F5")
+profile_pic = load_image("https://drive.google.com/file/d/1FVLn2RbagKS7u7x_Zw42k5n8eGq9s08P/view?usp=sharing")
 
 # Custom CSS for dark theme
 st.markdown(
