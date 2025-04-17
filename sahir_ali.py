@@ -154,7 +154,10 @@ elif page == "Projects":
     **Technologies Used**: Python, Streamlit.  
     **Key Features**:  
     - Real-time password strength feedback.  
-    - Visual indicators for weak, medium, and strong passwords.  
+    - Visual indicators for weak, medium, and strong passwords.\n
+    **Take a look on it**:
+            https://lnkd.in/eX7SyXnQ
+               
     """)
 
     st.write("""
@@ -165,7 +168,9 @@ elif page == "Projects":
     **Key Features**:  
     - Add and remove books from the library.  
     - Search functionality to find books quickly.  
-    - Simple and intuitive user interface.
+    - Simple and intuitive user interface.\n
+    **Take a look on it**:
+            https://lnkd.in/eSAxNEbX
     """)
 
     st.write("""
@@ -176,7 +181,9 @@ elif page == "Projects":
     **Key Features**:  
     - Supports multiple unit categories.  
     - Easy-to-use dropdown menus for unit selection.  
-    - Instant conversion results.  
+    - Instant conversion results.\n
+    **Take a look on it**:
+            https://lnkd.in/emKNmtXA  
     """)
 
     st.write("""
@@ -187,7 +194,9 @@ elif page == "Projects":
     **Key Features**:  
     - Access to curated growth mindset resources.  
     - User-friendly interface for easy navigation.  
-    - Regularly updated content.  
+    - Regularly updated content.\n
+    **Take a look on it**:
+            https://lnkd.in/e2Vcddgb
     """)
 
     # Robotics Projects
