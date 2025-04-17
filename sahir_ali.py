@@ -165,7 +165,11 @@ elif page == "Projects":
     **Key Features**:  
     - Add and remove books from the library.  
     - Search functionality to find books quickly.  
-    - Simple and intuitive user interface.  
+    - Simple and intuitive user interface.
+
+    Take a look on it:
+    https://lnkd.in/eSAxNEbX
+
     """)
 
     st.write("""
