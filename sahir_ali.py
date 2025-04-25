@@ -146,6 +146,21 @@ elif page == "Projects":
     st.write("Here are some of the projects I’ve worked on:")
 
     # Streamlit Projects
+    st.write("""  
+    #### 2. Secure Data Encryption  
+    **Description**:  
+    The Secure Data Encryption app is a simple yet effective tool to help users encrypt and decrypt their sensitive data using a custom key. It ensures that your text data remains private and protected, even during sharing or storage.  
+    **Technologies Used**: Python, Streamlit.  
+    **Key Features**:  
+    - Encrypts and decrypts text using a custom key.  
+    - Clean and user-friendly web interface.  
+    - Data remains local – no cloud processing.  
+    - Fast, real-time results for both encryption and decryption.  
+
+    **Take a look on it**:  
+    https://secure-data-encryption456.streamlit.app/  
+    """)
+
     st.write("### Streamlit Projects")
     st.write("""
     #### 1. Password Strength Meter
