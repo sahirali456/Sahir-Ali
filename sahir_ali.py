@@ -146,8 +146,9 @@ elif page == "Projects":
     st.write("Here are some of the projects I’ve worked on:")
 
     # Streamlit Projects
+    st.write("### Streamlit Projects")
     st.write("""  
-    #### 2. Secure Data Encryption  
+    #### 1. Secure Data Encryption  
     **Description**:  
     The Secure Data Encryption app is a simple yet effective tool to help users encrypt and decrypt their sensitive data using a custom key. It ensures that your text data remains private and protected, even during sharing or storage.  
     **Technologies Used**: Python, Streamlit.  
@@ -161,9 +162,8 @@ elif page == "Projects":
     https://secure-data-encryption456.streamlit.app/  
     """)
 
-    st.write("### Streamlit Projects")
     st.write("""
-    #### 1. Password Strength Meter
+    #### 2. Password Strength Meter
     **Description**:  
     The Password Strength Meter is a tool designed to evaluate the strength of user passwords. It checks for factors such as length, complexity, and the presence of special characters.  
     **Technologies Used**: Python, Streamlit.  
@@ -176,7 +176,7 @@ elif page == "Projects":
     """)
 
     st.write("""
-    #### 2. Personal Library Manager
+    #### 3. Personal Library Manager
     **Description**:  
     The Personal Library Manager is a web application that helps users organize their book collections. Users can add, delete, and search for books in their library.  
     **Technologies Used**: Python, Streamlit, SQLite.  
@@ -189,7 +189,7 @@ elif page == "Projects":
     """)
 
     st.write("""
-    #### 3. Unit Converter
+    #### 4. Unit Converter
     **Description**:  
     The Unit Converter is a versatile tool that allows users to convert between different units of measurement, such as length, weight, and temperature.  
     **Technologies Used**: Python, Streamlit.  
@@ -202,7 +202,7 @@ elif page == "Projects":
     """)
 
     st.write("""
-    #### 4. Growth Mindset Document Web
+    #### 5. Growth Mindset Document Web
     **Description**:  
     This web app provides resources and documents related to the growth mindset, helping users develop a positive attitude toward learning and self-improvement.  
     **Technologies Used**: Python, Streamlit.  
